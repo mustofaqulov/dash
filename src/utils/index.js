@@ -1,0 +1,14 @@
+export { sideBarLinkData } from "./mock/sideBarLink";
+export { sideBarManLinkData } from "./mock/sideBarManLink";
+export { sideBarKadrLinkData } from "./mock/sideBarKadrLink";
+export { servicesData } from "./mock/services.mock";
+export { userTableHeadData } from "./mock/userTableHeadData.mock";
+export { contactInputData } from "./mock/contact-input-data.mock";
+export { courseInputData } from "./mock/courseInputData.mock";
+export { serviceInputData } from "./mock/serviceInputData.mock";
+export { contactModalInputData } from "./mock/contactInputData.mock";
+export { teacherTableHeadData } from "./mock/teacherTableHeadData.mock";
+export { teacherInputData } from "./mock/teacherInputData.mock";
+export { aboutInpData } from "./mock/aboutInpData";
+export { studentInpData } from "./mock/studentInpData";
+export { newsInpData } from "./mock/newsInpData";

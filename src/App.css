@@ -1,0 +1,17 @@
+.w-540 {
+  width: 540px;
+}
+.w-840 {
+  width: 540px;
+}
+.h-700 {
+  height: 700px;
+}
+
+.scroll-none::-webkit-scrollbar {
+  width: 0;
+}
+
+#root {
+  user-select: none;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "full_name": "Joey Rowler",
+    "role": "Electrician",
+    "is_active": "true"
+  },
+  {
+    "id": 2,
+    "full_name": "Jose Uttley",
+    "role": "Construction Worker",
+    "is_active": "true"
+  },
+  {
+    "id": 3,
+    "full_name": "Wang Dmytryk",
+    "role": "Construction Manager",
+    "is_active": "false"
+  },
+  {
+    "id": 4,
+    "full_name": "Aileen Richardin",
+    "role": "Electrician",
+    "is_active": "true"
+  },
+  {
+    "id": 5,
+    "full_name": "Creigh Chaston",
+    "role": "Project Manager",
+    "is_active": "false"
+  },
+  {
+    "id": 6,
+    "full_name": "Honoria Dey",
+    "role": "Construction Manager",
+    "is_active": "false"
+  },
+  {
+    "id": 7,
+    "full_name": "Mala Andrioni",
+    "role": "Construction Foreman",
+    "is_active": "true"
+  },
+  {
+    "id": 8,
+    "full_name": "Althea Martinez",
+    "role": "Surveyor",
+    "is_active": "false"
+  },
+  {
+    "id": 9,
+    "full_name": "Daryn Bischof",
+    "role": "Construction Foreman",
+    "is_active": "true"
+  },
+  {
+    "id": 10,
+    "full_name": "Duffie Pirot",
+    "role": "Construction Foreman",
+    "is_active": "true"
+  }
+]

@@ -1,0 +1,21 @@
+export { Skeleton } from "./Skeleton/Skeleton";
+
+export { Button } from "./Button/Button";
+export { Cards } from "./Cards/Cards";
+export { Footer } from "./Footer/Footer";
+export { Header } from "./Header/Header";
+export { Input } from "./Input/Input";
+export { Modal } from "./Modal/Modal";
+export { Pagination } from "./Pagination/Pagination";
+export { PromoHeader } from "./PromoHeader/PromoHeader";
+export { SideBar } from "./SideBar/SideBar";
+export { SideBarKadr } from "./SideBar/SideBarKadr";
+export { SideBarMan } from "./SideBar/SideBarMan";
+export { PromoComponent } from "./PromoComponent/PromoComponent";
+export { StudentTable } from "./Tables/StudentTable/StudentTable";
+export { StudentTables } from "./StudentTable/StudentTable";
+export { TeacherTable } from "./TeacherTable/TeacherTable";
+export { AttendanceCard } from "./AttendanceCard/AttendanceCard";
+export { AttendanceStudentTr } from "./AttendanceStudentTr/AttendanceStudentTr";
+export { ModCard } from "./ModCard/ModCard";
+export { ItemCard } from "./ItemCard/ItemCard";
